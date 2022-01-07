@@ -25,6 +25,7 @@ To use it. Download all file and put them in a folder named "my_folder", then, u
 These files were the programs used to do the experiments of the article about K-bMOM, submitted by Adrien SAUMARD, Camille SAUMARD and Edoaurd GENETAY in 2020 in a journal.
 - Preprint here: https://arxiv.org/abs/2002.03899
 - Submitted to JASA on august 2020, rejected after review in november 2020
-- Submitted to CSDA on december 2020, still in process
-
+- Submitted to CSDA on december 2020
+- accepted at CSDA on february 2021
+- 
 These files were also the programs used to prepare my talk to CMStat2020.
